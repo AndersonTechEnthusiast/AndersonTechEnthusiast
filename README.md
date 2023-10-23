@@ -6,7 +6,9 @@
 
 ## Olá sou o Anderson 
 ***
-![AndersonTechEnthusiast Status](https://github-readme-stats.vercel.app/api?username=AndersonTechEnthusiast&show_icons=true)[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonTechEnthusiast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![AndersonTechEnthusiast Status](https://github-readme-stats.vercel.app/api?username=AndersonTechEnthusiast&show_icons=true)[![willianrod's wakatime stats]
+(https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonTechEnthusiast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ***
 
 ## Tech Stack :computer:
