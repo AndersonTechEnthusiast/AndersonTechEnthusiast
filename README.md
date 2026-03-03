@@ -16,23 +16,6 @@
 
 ## 👋 Olá, eu sou Anderson Pires
 
-```java
-public class Anderson extends Developer {
-
-    private final String[] roles    = {"Full Stack Developer", "Automation Engineer", "Back-End Enthusiast"};
-    private final String   location = "Brasília, DF — Brasil 🇧🇷";
-    private final String   focus    = "Spring Boot · REST APIs · Web Automation";
-    private final boolean  openToWork = true;
-
-    @Override
-    public String introduce() {
-        return "Apaixonado por tecnologia, automação e sistemas robustos. " +
-               "Construo desde bots de automação web até APIs RESTful completas, " +
-               "sempre buscando código limpo, escalável e com impacto real.";
-    }
-}
-```
-
 ---
 
 ## 🚀 Sobre Mim
